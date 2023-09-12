@@ -1,0 +1,31 @@
+{
+  "name": "koa-cas-sch",
+  "version": "1.0.0",
+  "description": "koa cas middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giannisdag/koa2-cas-sch.git"
+  },
+  "keywords": [
+    "koa",
+    "cas",
+    "sso"
+  ],
+  "author": "Donny",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.8.1"
+  }
+}
