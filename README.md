@@ -1,4 +1,4 @@
-# Koa CAS Authentication
+# CAS Authentication using KOA for the Sch.gr services
 
 This is a CAS authentication library designed to be used with an Koa server.
 
